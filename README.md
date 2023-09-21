@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://portfolio-preview-gm.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-Gonzalo%20Morales-cyan?style=flat-square&logo=internet-explorer"></a>
-<a href="www.linkedin.com/in/gonzalomorales-web"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Morales-cyan?style=flat-square&logo=linkedin"></a>
+<a href="https://linkedin.com/in/gonzalomorales-web"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Morales-cyan?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/goncho021/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@goncho021-cyan?style=flat-square&logo=instagram"></a>
 <a href="mailto:gonzalomorales1001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gonzalomorales1001@gmail.com-cyan?style=flat-square&logo=gmail"></a>
 </p>
