@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<h2 align="center">🔧 My favourite languages & tools</h3>
+<h2 align="center">🔧 Tools I have used</h3>
 <p align"center">
   
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -33,6 +33,7 @@
 ![Shadcn-ui](https://img.shields.io/badge/-shadcn/ui-333333?style=flat&logo=shadcnui)
 ![tRPC](https://img.shields.io/badge/-tRPC-333333?style=flat&logo=trpc)
 ![PrismaORM](https://img.shields.io/badge/-PrismaORM-333333?style=flat&logo=prisma)
+![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-333333?style=flat&logo=drizzle)
 ![PNPM](https://img.shields.io/badge/-PNPM-333333?style=flat&logo=pnpm)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
